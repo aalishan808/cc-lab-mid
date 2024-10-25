@@ -26,7 +26,7 @@ namespace q2
 
             // Ensure required components are included
             password.Append("45");         // Add two digits of registration number
-            password.Append("ah");         // Add 'a' and 'h' from name haseeb ahmed
+            password.Append("ah");         // Add 'a' and 'h' from name Aali Shan
             password.Append("Robert");      // Add "Robert" from movie ironman 1st character
             password.Append("Leonardo");      // Add "leonardo" from movie the wolf of wallstreet 2nd character
 
